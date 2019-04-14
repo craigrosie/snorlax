@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/craigrosie/snorlax)](https://goreportcard.com/report/github.com/craigrosie/snorlax)
+
 # Snorlax
 
 For when your data is just _too fast_.
